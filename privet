@@ -1,0 +1,10 @@
+operating_system = "Windows"
+housing_material = "metal"
+weight = "1.460"
+RAM = "16 256"
+screen_size = "14"
+front_camera = "HD WEB Cam"
+speaker = "DTS Audio"
+features = "fast charging 65w"
+
+print("Оперативная система:", operating_system,"\n","Корпус:",housing_material,"\n", "вес:", weight,"\n", "Размер экрана:", screen_size,"\n", "Передняя камера:", front_camera,"\n", "Динамик:", speaker,"\n", "Особенности:", features)
